@@ -54,4 +54,11 @@ Como executar?
  Observação:
 As frases são citações curtas, sempre com a fonte indicada. As traduções podem variar conforme a edição de cada livro.
 
+Demonstração:
+Um vídeo de demonstração segue abaixo:
+ 
+https://github.com/user-attachments/assets/ea56e863-f606-4c88-8664-8c0566367a0d
+
+
+
 
